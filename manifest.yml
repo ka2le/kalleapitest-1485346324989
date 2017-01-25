@@ -6,3 +6,5 @@ applications:
   name: kalleapitest
   host: kalleapitest
   disk_quota: 1024M
+  services:
+  - nlckalle
