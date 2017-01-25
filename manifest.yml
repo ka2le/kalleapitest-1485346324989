@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: kalleapitest
+  host: kalleapitest
+  disk_quota: 1024M
